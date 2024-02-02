@@ -2,7 +2,6 @@
 layout: post
 title: Workshop Post
 subtitle: This is a workshop post!
-tags: [workshop]
 author: Michael Soriano
 ---
 
