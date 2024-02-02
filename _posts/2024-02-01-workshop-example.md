@@ -87,7 +87,7 @@ Upon clicking "Commit Changes," you will be shown a screen with several text box
 
 Now, you should be able if you go to https://username.github.io/ (the name of your repository) to see your new online space where you will create your eportofio:
 
-![[Screenshot 2024-02-02 at 1.57.48 PM.png]]
+![Text](https://mikesori.github.io/assets/img/screenshot.png)
 
 Enjoy your new virtual space!
 
@@ -125,7 +125,7 @@ Now that we have observed these features, we can now move to the interactive por
 - Ensure that "Copy the Master branch only" is selected.
 - Click "Create Fork".
 - You will see a new repository that looks identical to the Beautiful Jekyll GitHub repository. 
-	- While it may seem initially intimidating, you will only ever be engaging with a select few folders and files. Before we continue, if you would like to read more about what each file and folder represents, you can read more. This specific folder has been written for Minima but it equally applies to Beautiful Jekyll: [[Minima Folder and Files Breakdown]]. 
+	- While it may seem initially intimidating, you will only ever be engaging with a select few folders and files. Before we continue, if you would like to read more about what each file and folder represents, you can read more. This specific folder has been written for Minima but it equally applies to Beautiful Jekyll: [Minima Folder and Files Breakdown](https://mikesori.github.io/2024-02-01-minima/). 
 - Enter the config.yml file and input the information below:
 	- Title
 	- Name
@@ -187,9 +187,9 @@ Here are some sample sites that were built following the above instructions:
 2. https://mikesori.github.io/
 
 # Caribbean Keywords Site
-![[keywords_1.png]]
+![Text](https://mikesori.github.io/assets/img/keywords_1.png)
 
-![[keywords_2.png]]
+![Text](https://mikesori.github.io/assets/img/keywords_2.png)
 
 Now that we have built our own sites, and seen how the backend operates, we can now explore the "keywords-caribbean-studies" GitHub. You can find the repository here: https://github.com/roopikarisam/keywords-caribbean-studies.
 
