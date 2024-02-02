@@ -1,6 +1,11 @@
 ---
 layout: post
-Title: "Workshop Post"
+title: Workshop Post
+subtitle: This is a workshop post!
+gh-repo: mikesori/mikesori.github.io
+tags: [workshop]
+comments: true
+author: Michael Soriano
 ---
 
 # This is a sample post
