@@ -183,8 +183,8 @@ Throughout this presentation, we have attempted to show you the various ways tha
 If, after leaving here, you would like to experiment with other GitHub and Jekyll themes, I have left a list of themes for you to peruse and explore. 
 
 Here are some sample sites that were built following the above instructions:
-1. https://mrileysoriano.github.io/githubworkshop/
-2. https://mikesori.github.io/
+1. [Example 1](https://mrileysoriano.github.io/githubworkshop/)
+2. [Example 2](https://mikesori.github.io/)
 
 # Caribbean Keywords Site
 ![Text](https://mikesori.github.io/assets/img/keywords_1.png)
