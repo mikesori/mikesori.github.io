@@ -193,11 +193,11 @@ Here are some sample sites that were built following the above instructions:
 
 Now that we have built our own sites, and seen how the backend operates, we can now explore the "keywords-caribbean-studies" GitHub. You can find the repository here: https://github.com/roopikarisam/keywords-caribbean-studies.
 
-Navigating the keywords Github is much like navigating the [[Minima Folder and Files Breakdown]] from earlier. 
+Navigating the keywords Github is much like navigating the [Minima Folder and Files Breakdown](https://mikesori.github.io/2024-02-01-minima/) from earlier. 
 
-Let's go ahead and take a look at one of the keywords. For this exercise, we will be looking at this link: https://raw.githubusercontent.com/roopikarisam/keywords-caribbean-studies/master/_posts/2020-11-11-spirituality.md. 
+Let's go ahead and take a look at one of the keywords. For this exercise, we will be looking at this link: [Spirtuality Raw Code](https://raw.githubusercontent.com/roopikarisam/keywords-caribbean-studies/master/_posts/2020-11-11-spirituality.md). 
 
-Together, we will look at this link against the user-facing material: https://thecaribbeandigital.org/keywords/2020/11/11/spirituality/.
+Together, we will look at this link against the user-facing material: [Spirtuality Post](https://thecaribbeandigital.org/keywords/2020/11/11/spirituality/).
 
 Here, you can see how raw code translates to the webpage. Notice that all of the keywords are included in the posts section, whereas additional materials are located outside of the posts page. 
 
